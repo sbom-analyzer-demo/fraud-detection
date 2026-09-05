@@ -1,0 +1,4 @@
+# Real-time transaction fraud scoring
+
+cryptography==3.3.1
+urllib3==1.26.4
